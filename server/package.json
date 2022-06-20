@@ -1,5 +1,5 @@
 {
-  "name": "@sample-app/server",
+  "name": "@courses-service/server",
   "private": true,
   "scripts": {
     "start": "nest start",
